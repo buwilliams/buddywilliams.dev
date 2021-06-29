@@ -1,0 +1,12 @@
+name = "Buddy Williams"
+license = "MIT"
+licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
+description = ""
+homepage = "https://buddywilliams.dev/"
+tags = ["blog", "portfolio"]
+features = []
+min_version = "0.75.0"
+
+[author]
+  name = "Henk Verlinde"
+  homepage = "https://henkverlinde.com/"

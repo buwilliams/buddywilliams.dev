@@ -1,0 +1,74 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Buddy Williams"
+titleSeparator = "-"
+titleAddition = "Portfolio and Blog"
+description = "Part-time mad computer scientist, full-time lover of the extraordinary."
+
+## Open Graph
+images = ["buddy.png"]
+ogLocale = "en_US"
+domainTLD = "buddywilliams.dev"
+titleHome = "Home"
+
+## Twitter Cards
+twitterSite = "@buwilliams"
+twitterCreator = "@buwilliams"
+
+## JSON-LD
+# schemaType = "Organization"
+schemaType = "Person"
+schemaName = "Buddy Williams"
+schemaAuthor = "Buddy Williams"
+schemaAuthorTwitter = "https://twitter.com/buwilliams"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/buddylwilliams/"
+schemaAuthorGitHub = "https://github.com/buwilliams/"
+schemaLocale = "en-US"
+schemaLogo = "buddy.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "buddy.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/buwilliams"
+schemaLinkedIn = "https://www.linkedin.com/in/buddylwilliams/"
+schemaGitHub = "https://github.com/buwilliams/"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Footer
+footer = "Portfolio and blog for Buddy Williams"
+copyRight = ""
+
+# Alert
+alert = false
+alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+
+# Edit Page
+docsRepo = "https://github.com/h-enk/doks"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = false
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  collapsibleSidebar = false
