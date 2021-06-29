@@ -1,3 +1,3 @@
 # Buddy Williams
 
-Portfolio and Blog
+Projects and Blog
