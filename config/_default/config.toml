@@ -75,6 +75,7 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/blog/:title/"
+  projects = "/projects/:title/"
 
 [module]
   [[module.mounts]]
