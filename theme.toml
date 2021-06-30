@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
 description = ""
 homepage = "https://buddywilliams.dev/"
-tags = ["blog", "portfolio"]
+tags = ["blog", "projects"]
 features = []
 min_version = "0.75.0"
 

@@ -3,7 +3,7 @@
 ## Homepage
 title = "Buddy Williams"
 titleSeparator = "-"
-titleAddition = "Portfolio and Blog"
+titleAddition = "Projects and Blog"
 description = "Part-time mad computer scientist, full-time lover of the extraordinary."
 
 ## Open Graph
@@ -50,7 +50,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Portfolio and blog for Buddy Williams"
+footer = "Projects and blog for Buddy Williams"
 copyRight = ""
 
 # Alert
