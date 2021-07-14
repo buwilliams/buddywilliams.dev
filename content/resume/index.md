@@ -4,10 +4,10 @@ description: ""
 date: 2021-06-30T09:15:47-04:00
 lastmod: 2021-06-30T09:15:47-04:00
 draft: false
-images: ["buddy.jpg"]
+images: ["buddy_small.jpg"]
 ---
 
-<img src="buddy.jpg" alt="Buddy Williams" width="100%"/>
+<img src="buddy_small.jpg" alt="Buddy Williams" width="100%"/>
 
 # Buddy Williams
 
