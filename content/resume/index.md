@@ -27,11 +27,6 @@ images: ["buddy_small.jpg"]
 
 ## Current Experience (2015-Present)
 
-**Full-stack Developer, Posthog, Apr 2021 - June 2021**
-
-- Learned Python, Docker, Clickhouse, TypeScript
-- Core analytics team
-
 **Technical Lead, Workstorm, Mar 2018 - Mar 2021**
 
 - Created a Microsoft Outlook Add-in which allowed customers to schedule video conferences without leaving Outlook. This resulted in a more salable product for users who prefer Outlook. Increases in sales figures were not shared with me.
