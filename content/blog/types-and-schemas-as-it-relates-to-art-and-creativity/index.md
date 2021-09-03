@@ -1,7 +1,7 @@
 ---
 title: "Types and Schemas as it relates to Art and Creativity"
 description: "A bridge between two styles"
-lead: "I’ve always preferred implicit schemas and types."
+lead: ""
 date: 2021-09-03T9:22:00-00:00
 lastmod: 2021-09-03T9:22:00-00:00
 draft: false
