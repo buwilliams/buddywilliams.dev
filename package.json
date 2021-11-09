@@ -36,7 +36,7 @@
   "devDependencies": {
     "@babel/cli": "^7.14",
     "@babel/core": "^7.14",
-    "@babel/preset-env": "^7.14",
+    "@babel/preset-env": "^7.16",
     "@fullhuman/postcss-purgecss": "^4.0",
     "auto-changelog": "^2.3.0",
     "autoprefixer": "^10.2",
@@ -51,7 +51,7 @@
     "katex": "^0.13",
     "lazysizes": "^5.3",
     "markdownlint-cli": "^0.27",
-    "mermaid": "^8.10.2",
+    "mermaid": "^8.13.3",
     "postcss": "^8.3",
     "postcss-cli": "^8.3",
     "purgecss-whitelister": "^2.4",
