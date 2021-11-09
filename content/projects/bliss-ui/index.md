@@ -9,11 +9,7 @@ images: []
 
 **Update November 9th, 2021**
 
-I gave a presentation on App-designer platforms. You can watch it by clicking the video below.
-
-[![How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com](https://img.youtube.com/vi/AH0zkFfc9v8/0.jpg)](https://www.youtube.com/watch?v=AH0zkFfc9v8 "How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com")
-
-[Presentation Notes](https://docs.google.com/presentation/d/1tebVapYj844X0HPaXcT3LEAJcHzuSTNEHHDVouPl7LU/edit?usp=sharing)
+I gave a presentation on App-designer platforms to [Nevo](https://nevo.com) developers. You can [watch it on YouTube](https://www.youtube.com/watch?v=AH0zkFfc9v8). The [presentation deck](https://docs.google.com/presentation/d/1tebVapYj844X0HPaXcT3LEAJcHzuSTNEHHDVouPl7LU/edit?usp=sharing) is here.
 
 ## I've been putting this off
 
