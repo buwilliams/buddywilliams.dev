@@ -11,7 +11,7 @@ images: []
 
 I gave a presentation on App-designer platforms. You can watch it by clicking the video below.
 
-[![How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com](http://img.youtube.com/vi/AH0zkFfc9v8/0.jpg)](https://www.youtube.com/watch?v=AH0zkFfc9v8 "How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com")
+[![How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com](https://img.youtube.com/vi/AH0zkFfc9v8/0.jpg)](https://www.youtube.com/watch?v=AH0zkFfc9v8 "How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com")
 
 ## I've been putting this off
 
