@@ -7,6 +7,12 @@ draft: false
 images: []
 ---
 
+**Update November 9th, 2021**
+
+I gave a presentation on App-designer platforms. You can watch it by clicking the video below.
+
+[![How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com](http://img.youtube.com/vi/AH0zkFfc9v8/0.jpg)](https://www.youtube.com/watch?v=AH0zkFfc9v8 "How I built an App-designer platform (low-code / no-code) - Buddy Williams @ Nevo.com")
+
 ## I've been putting this off
 
 It's time to tell you about my baby: Bliss UI. I wrote this project from 2016-2018. For years, I've kept the source 
